@@ -1,5 +1,6 @@
 
 /*
+//written by RyanEspinoza
  * Tester program for Movie class. Tests key methods to ensure they work as expected.
  *
  * @version 1.0

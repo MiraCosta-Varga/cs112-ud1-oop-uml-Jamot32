@@ -1,3 +1,4 @@
+//written by SiyoungPark
 public class RegularUser extends User {
     // Constructor for RegularUser
     public RegularUser(String username, String password) {

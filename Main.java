@@ -1,3 +1,4 @@
+//written by both Siyoung, Ryan
 import java.util.Scanner;
 
 /**
